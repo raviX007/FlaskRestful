@@ -26,7 +26,7 @@ This is a Python Flask backend API project that provides endpoints for [describe
 
 Before you begin, ensure you have met the following requirements:
 
-- [Python](https://www.python.org/) (version X.X.X)
+- [Python](https://www.python.org/) (version 3.9.7)
 - [Virtualenv](https://pypi.org/project/virtualenv/) (recommended for isolating dependencies)
 - [Pip](https://pip.pypa.io/en/stable/) (package manager)
 
